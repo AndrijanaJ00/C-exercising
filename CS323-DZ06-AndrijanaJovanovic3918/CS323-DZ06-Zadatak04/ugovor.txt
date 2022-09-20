@@ -1,0 +1,2 @@
+Ime firme: aa, vrednost ugovora: 20
+Ime firme: ff, vrednost ugovora: 20

@@ -1,0 +1,4 @@
+﻿  zadatak19.c
+E:\2.DRUGA GODINA\2.SEMESTAR\4. CS323 - C- C++\2. Domaci zadaci - CS323 - C- C++\CS323-DZ05-AndrijanaJovanovic3918\Zadatak19\zadatak19.c(48,80): warning C4047: 'function': 'Ugovor *' differs in levels of indirection from 'Ugovor (*)[20]'
+E:\2.DRUGA GODINA\2.SEMESTAR\4. CS323 - C- C++\2. Domaci zadaci - CS323 - C- C++\CS323-DZ05-AndrijanaJovanovic3918\Zadatak19\zadatak19.c(48,78): warning C4024: 'ugovori': different types for formal and actual parameter 1
+  Zadatak19.vcxproj -> E:\2.DRUGA GODINA\2.SEMESTAR\4. CS323 - C- C++\2. Domaci zadaci - CS323 - C- C++\CS323-DZ05-AndrijanaJovanovic3918\Debug\Zadatak19.exe

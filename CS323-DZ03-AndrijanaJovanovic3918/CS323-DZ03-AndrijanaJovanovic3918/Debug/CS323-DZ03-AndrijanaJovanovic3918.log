@@ -1,0 +1,4 @@
+﻿  CS323-DZ03.c
+E:\2.DRUGA GODINA\2.SEMESTAR\4. CS323 - C- C++\2. Domaci zadaci - CS323 - C- C++\CS323-DZ03-AndrijanaJovanovic3918\CS323-DZ03-AndrijanaJovanovic3918\CS323-DZ03.c(14,20): warning C4018: '<': signed/unsigned mismatch
+E:\2.DRUGA GODINA\2.SEMESTAR\4. CS323 - C- C++\2. Domaci zadaci - CS323 - C- C++\CS323-DZ03-AndrijanaJovanovic3918\CS323-DZ03-AndrijanaJovanovic3918\CS323-DZ03.c(50,6): warning C4013: 'gets' undefined; assuming extern returning int
+  CS323-DZ03-AndrijanaJovanovic3918.vcxproj -> E:\2.DRUGA GODINA\2.SEMESTAR\4. CS323 - C- C++\2. Domaci zadaci - CS323 - C- C++\CS323-DZ03-AndrijanaJovanovic3918\Debug\CS323-DZ03-AndrijanaJovanovic3918.exe

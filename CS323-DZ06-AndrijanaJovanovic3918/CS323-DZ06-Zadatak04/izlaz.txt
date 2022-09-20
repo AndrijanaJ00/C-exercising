@@ -1,0 +1,4 @@
+2
+1. Ime firme: ff, vrednost ugovora: 2
+2. Ime firme: ff, vrednost ugovora: 4
+Ukupna vrednost ugovora firme ff je 6
